@@ -38,4 +38,8 @@
 2.Luo projektikansioosi tiedosto nimeltä tarina.txt. Lisää sinne jokin pitkä pätkä tekstiä.
 3.Lisää projektiin tiedosto ostoslista.txt, jonne kirjoitat, mitä tarvitset kaupasta, tai muuten vaan paljon rivejä.
 4.Lisää sen jälkeen vielä alikansio kouluprojektit, ja lisää sinne ainakin yksi tiedosto githarkat.txt. Tulet tarvitsemaan näitä tiedostoja tulevissa tehtävissä.
+<<<<<<< Updated upstream
 5.Kun olet tehnyt kaikki edellä mainitut muutokset, tee yhteensä kolme committia: yksi, jossa lisäät tarinan, toinen, jossa lisäät ostoslistan, ja kolmas, jossa lisäät kouluprojektikansion sisällön. Kirjoita commiteille kuvaavat otsikot.
+=======
+5.Kun olet tehnyt kaikki edellä mainitut muutokset, tee yhteensä kolme committia: yksi, jossa lisäät tarinan, toinen, jossa lisäät ostoslistan, ja kolmas, jossa lisäät kouluprojektikansion sisällön. Kirjoita commiteille kuvaavat otsikot.  Muokattu paikallisesti
+>>>>>>> Stashed changes
