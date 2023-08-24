@@ -1,3 +1,4 @@
+Ostoslista:
 blaster 150000x
 death star 1x
 cyber crystals 50x
