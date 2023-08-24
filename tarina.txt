@@ -1,4 +1,4 @@
-1.Luo kansio komentorivillä ja tee siitä Git-projekti.
+1.Luo kansio komentorivillä ja tee siitä Git-projekti. Muokattu githubissa.
 2.Luo projektikansioosi tiedosto nimeltä tarina.txt. Lisää sinne jokin pitkä pätkä tekstiä.
 3.Lisää projektiin tiedosto ostoslista.txt, jonne kirjoitat, mitä tarvitset kaupasta, tai muuten vaan paljon rivejä.
 4.Lisää sen jälkeen vielä alikansio kouluprojektit, ja lisää sinne ainakin yksi tiedosto githarkat.txt. Tulet tarvitsemaan näitä tiedostoja tulevissa tehtävissä.
